@@ -2,5 +2,7 @@
 <manifest>
   <project name="bruce2728/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="master" />
   <project name="bruce2728/android_device_htc_pyramid" path="device/htc/pyramid" revision="master" />
+
+ <remove-project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" />
   <project name="bruce2728/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="master" />
 </manifest>
