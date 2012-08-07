@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="bruce2728/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="master" />
-  <project name="bruce2728/android_device_htc_pyramid" path="device/htc/pyramid" revision="master" />
+  <project name="bruce2728/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
+  <project name="bruce2728/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
 
  <remove-project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio" />
-  <project name="bruce2728/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="master" />
+  <project name="bruce2728/android_hardware_qcom_audio" path="hardware/qcom/audio" revision="jellybean" />
 </manifest>
