@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <project name="bruce2728/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
-  <project name="bruce2728/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
-  <project name="bruce2728/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="jellybean" />
-  <project name="bruce2728/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
-</manifest>

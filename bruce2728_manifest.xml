@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="bruce2728/android_device_lge_mako" path="device/lge/mako" revision="cm-11.0" />
+  <project name="bruce2728/android_device_asus_flo" path="device/asus/flo" revision="cm-11.0" />
+  <project name="bruce2728/android_device_asus_deb" path="device/asus/deb" revision="cm-11.0" />
+  <project name="bruce2728/kernel_google_msm" path="kernel/google/msm" revision="android-msm-mako-3.4-kitkat-mr0" />
+  <project name="bruce2728/kernel_google_msm" path="kernel/google/msm-flo" revision="android-msm-flo-3.4-kitkat-mr0" />
+
+  <remove-project name="CyanogenMod/android_external_sepolicy" path="external/sepolicy" />
+  <project name="bruce2728/android_external_sepolicy" path="external/sepolicy" revision="cm-11.0" />
+
+  <project name="bruce2728/android_external_sepolicy" path="external/sepolicy-new" revision="cm-11.0-new" />
+</manifest>
