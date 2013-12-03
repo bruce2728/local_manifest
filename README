@@ -1,1 +1,1 @@
-wget -O ~/android/system/.repo/local_manifest.xml https://raw.github.com/bruce2728/local_manifest/master/local_manifest.xml
+wget -O ~/android/system/.repo/local_manifests/bruce2728_manifest.xml https://raw.github.com/bruce2728/local_manifest/kitkat-mr0/bruce2728_manifest.xml
