@@ -6,8 +6,8 @@
   <project name="bruce2728/android_vendor_asus" path="vendor/asus" revision="cm-11.0" />
   <project name="bruce2728/android_vendor_lge" path="vendor/lge" revision="cm-11.0" />
 
-  <project name="bruce2728/kernel_google_msm" path="kernel/google/msm" revision="kk-mr1" />
-  <project name="bruce2728/kernel_google_msm-flo" path="kernel/google/msm-flo" revision="kk-mr1" />
+  <project name="bruce2728/bricked-mako" path="kernel/google/bricked-mako-master" revision="master" />
+  <project name="bruce2728/bricked-flo" path="kernel/google/bricked-flo-master" revision="master" />
   
     <remove-project name="CyanogenMod/android_frameworks_base" path="frameworks/base" />
   <project name="bruce2728/android_frameworks_base" path="frameworks/base" revision="cm-11.0" />
