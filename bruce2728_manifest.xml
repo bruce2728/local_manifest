@@ -5,21 +5,18 @@
   <project name="bruce2728/android_device_asus_deb" path="device/asus/deb" revision="cm-11.0" />
   <project name="bruce2728/android_vendor_asus" path="vendor/asus" revision="cm-11.0" />
   <project name="bruce2728/android_vendor_lge" path="vendor/lge" revision="cm-11.0" />
-
-  <project name="bruce2728/bricked-mako" path="kernel/google/bricked-mako-master" revision="master" />
+  <project name="bruce2728/android_kernel_google_msm" path="kernel/google/msm" revision="cm-11.0" />
   <project name="bruce2728/bricked-flo" path="kernel/google/bricked-flo-master" revision="master" />
-  
-    <remove-project name="CyanogenMod/android_frameworks_base" path="frameworks/base" />
-  <project name="bruce2728/android_frameworks_base" path="frameworks/base" revision="cm-11.0" />
 
-  <remove-project name="CyanogenMod/android_external_sepolicy" path="external/sepolicy" />
-  <project name="bruce2728/android_external_sepolicy" path="external/sepolicy" revision="cm-11.0" />
+  <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" />
+  <project name="bruce2728/android_packages_apps_Settings" path="packages/apps/Settings" revision="cm-11.0" />
 
-  <project name="bruce2728/android_external_sepolicy-new" path="external/sepolicy-new" revision="cm-11.0-new" />
-  
+  <remove-project name="CyanogenMod/android_frameworks_opt_hardware" path="frameworks/opt/hardware" />
+  <project name="bruce2728/android_frameworks_opt_hardware" path="frameworks/opt/hardware" revision="cm-11.0" />
+
   <remove-project name="CyanogenMod/android_vendor_cm" path="vendor/cm" />
   <project name="bruce2728/android_vendor_cm" path="vendor/cm" revision="cm-11.0" />
-  
+
   <remove-project name="CyanogenMod/android_build" path="build" />
   <project name="bruce2728/android_build" path="build" revision="cm-11.0" />
 </manifest>
